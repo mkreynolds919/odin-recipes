@@ -1,1 +1,27 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
 
+.header-container {
+    background-color: orange;
+    border: 6px solid black;
+    margin: auto;
+    margin-bottom: 12px;
+    text-align: center;
+    width: 30%;
+}
+
+.cheesecake-container {
+    background-color: orange;
+    border: 6px solid black;
+}
+
+.recipe-info {
+    margin: auto;
+    display: inline;
+}
+
+img {
+    margin: 20px 20px;
+    display: inline;
+}
